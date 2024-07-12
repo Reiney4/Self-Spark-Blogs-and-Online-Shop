@@ -10,8 +10,8 @@ This MVP aims to provide a simple and efficient way for users to manage their da
 2. Blog section
 3. Shop Section - has affiliate links
 4. User registration and login
-   -users can read the blogs but must sign up in order to shop.
-   -Should incorporate email marketing
+   - users can read the blogs but must sign up in order to shop.
+   - Should incorporate email marketing
 5. Admin panel
 6. Responsive design for mobile and desktop
 7. SEO friendly URLs
@@ -22,13 +22,13 @@ This MVP aims to provide a simple and efficient way for users to manage their da
 1. Server and Database SetUp 
 2. Authentication and Authorization -authorization to control access to admin features
 3. Blog Management
-   -Markdown support for writing blog content
-   -Image uploading for blog posts
-   -AI implementation to refresh the blogs
+   - Markdown support for writing blog content
+   - Image uploading for blog posts
+   - AI implementation to refresh the blogs
 4. Shop Management
-   -Integration with affiliate networks and APIs for product data
-   -Store and manage affiliate links for products
-   -Basic shopping cart
+   - Integration with affiliate networks and APIs for product data
+   - Store and manage affiliate links for products
+   - Basic shopping cart
 5. Payment Integration (M-pesa, Paypal)
 6. Security and Perfomance
    - Implement security best practices(data encryption)
