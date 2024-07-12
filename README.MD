@@ -1,4 +1,4 @@
-# Title: Self Spark Online Shop
+# Title: Self Spark Online Shop MVP
 Self Spark is your go-to destination for curated home decor appliances, thematic house ideas, cozy living tips, artistic inspiration, and stylish home organization solutions. Explore our blog and online shop for creative ideas and discover where to find the perfect products to spark inspiration in your living space.
 
 ## Objective:
